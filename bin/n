@@ -1,0 +1,8 @@
+#!/usr/bin/env perl
+package n;
+use App::n;
+
+# ABSTRACT n executable for managing notes
+
+App::n->run;
+
